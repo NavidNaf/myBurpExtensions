@@ -26,9 +26,7 @@ This Burp extension allows you to add and manipulate custom headers in HTTP requ
 4. The extension will automatically modify both HTTP requests and responses based on your configuration. If "Use Custom Header" is checked, the specified custom header will be added. If unchecked, it will be excluded.
 
 ## Author
-- Navid Fazle Rabbi (DL28)
-- navidnaf.com
-- navidfazlerabbi@iut-dhaka.edu
+- Navid Fazle Rabbi (DL28)| navidnaf.com | navidfazlerabbi@iut-dhaka.edu
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
